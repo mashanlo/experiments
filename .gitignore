@@ -66,4 +66,4 @@ Temporary Items
 .nfs*
 
 # node_modules
-*/node_modules/*
+**/node_modules
